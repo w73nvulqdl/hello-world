@@ -1,4 +1,0 @@
-This is just a test file while I'm learning git.
-I will delete this project soonishly.
-
-Another change but this is stashed
