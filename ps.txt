@@ -1,5 +1,0 @@
-  PID   STACKP      ESP      EIP TMOUT ALARM STAT TTY        TIME COMMAND
- 1202 00000000 00000000 00000000     -     - Ss+  tty7      12:58 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
- 1210 00000000 00000000 00000000     -     - Ss+  tty1       0:00 /sbin/agetty --noclear tty1 linux
- 3137 bf913ab0 bf9135d8 b77a1d05     -     - Ss   pts/4      0:00 bash
-16354 bfc7aa70 bfc7a788 b771bd05     -     - R+   pts/4      0:00 ps -aX
